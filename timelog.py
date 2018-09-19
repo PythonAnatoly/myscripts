@@ -1,9 +1,5 @@
 #!/usr/bin/env python3.4
 
-'''
-This program gets a description from user about what he did, couts how much time it took adt write it into .csv file. 
-'''
-
 from tkinter import *
 from tkinter import ttk
 import datetime
@@ -97,16 +93,4 @@ Comments.bind("<Control-s>",enter)
 
 
 root.mainloop()
-        
-
-
-
-
-
-
-
-
-
-
-
 
